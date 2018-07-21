@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KotlinMovileNext</string>
+    <string name="main_image_description">Main Image</string>
+    <string name="programming_language_year">Year %d</string>
+    <string name="kotlin_description">Kotlin Description</string>
+    <string name="java_description">Java Description</string>
+    <string name="python_description">Python Description</string>
+</resources>
